@@ -91,6 +91,17 @@ Across these processes, you'll create and maintain:
 3. **In delivery mode?** → Reference [Execution & Tracking](./octoacme-execution-and-tracking.md)
 4. **Need role clarity?** → Check [Roles & Personas](./octoacme-roles-and-personas.md)
 
+## Using Copilot Spaces
+
+This `docs/` folder is integrated with **GitHub Copilot Spaces** to scale institutional knowledge across the team. By adding this folder to a Copilot Space, team members can:
+
+- Ask Copilot questions about OctoAcme's project management processes
+- Get contextual answers grounded in these documents
+- Quickly find the right process or artifact for their current situation
+- Onboard faster with AI-assisted navigation of the documentation
+
+To use: add the contents of this folder to your Copilot Space and ask questions like "What process should I follow to kick off a new project?" or "What is the Risk Register and when do I update it?"
+
 ## Contributing
 
 These docs are living artifacts. If you identify gaps, opportunities for improvement, or want to add new processes, please create an issue using the "Add Content to Project Management Process Docs" template in `.github/ISSUE_TEMPLATE/`.
